@@ -25,6 +25,14 @@ It demonstrates the core concepts of React such as component-based structure, `u
 
 ---
 
+🧩 Future Improvements
+
+- Add localStorage persistence
+- Add category tags or due dates
+- Add animations when adding/removing tasks
+
+---
+
 📅 Learning Context
 
 This app is part of my React Fullstack Learning Journey.
